@@ -74,13 +74,6 @@
       <systemPath>${pom.basedir}/rentacat-solution-1.0.0.jar</systemPath>
       <scope>system</scope>
     </dependency>
-
-    <dependency>
-      <groupId>io.github.wonsunahn</groupId>
-      <artifactId>cs1632-cicd-pipelines-nfb25</artifactId>
-      <version>1.0</version>
-    </dependency>
-
   </dependencies>
 
   <build>
